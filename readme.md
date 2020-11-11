@@ -1,6 +1,6 @@
 ## Score Keeper Game
 
-Score Keeper Game using HTML5, Bulma CSS, Javascript
+Score Keeper Game built using HTML5, Bulma CSS, Javascript
 
 ## Project Specifications
 
