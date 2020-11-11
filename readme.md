@@ -8,3 +8,7 @@ Score Keeper Game using HTML5, Bulma CSS, Javascript
 - Set Max Score
 - Styled with Bulma CSS
 - Dom manipulation using Vanilla JS
+
+## Website Demo
+
+<a href="https://score-keeper-game.netlify.app/">Visit Website</a>
